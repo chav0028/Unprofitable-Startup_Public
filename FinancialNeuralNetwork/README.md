@@ -1,4 +1,4 @@
-# 6CCGD011W_FYP-FinancialNeuralNetwork
+# Financial Neural Network
 Scripts used to get and train financial data Neural Network.
 
 Python version: 3.11.7
