@@ -1,0 +1,38 @@
+{
+    "fiscalDateEnding": {
+        "min": 1364688000.0,
+        "max": 1703980800.0
+    },
+    "operatingCashflow": {
+        "min": -1461975000.0,
+        "max": 2178740000.0
+    },
+    "capitalExpenditures": {
+        "min": 8088000.0,
+        "max": 167327000.0
+    },
+    "grossProfit": {
+        "min": 287009000.0,
+        "max": 3610880000.0
+    },
+    "totalRevenue": {
+        "min": 1023961000.0,
+        "max": 8832825000.0
+    },
+    "costOfRevenue": {
+        "min": 736952000.0,
+        "max": 5404160000.0
+    },
+    "operatingExpenses": {
+        "min": 397979000.0,
+        "max": 3761231000.0
+    },
+    "StockValue": {
+        "min": 94.58,
+        "max": 649.48
+    },
+    "netIncome": {
+        "min": 2689000.0,
+        "max": 1706715000.0
+    }
+}

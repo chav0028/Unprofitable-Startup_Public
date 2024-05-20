@@ -1,0 +1,17 @@
+API Key from 
+https://www.alphavantage.co/support/#api-key
+
+- Earnings
+https://www.alphavantage.co/query?function=EARNINGS&symbol=nflx&apikey=
+
+
+- Cash Flow
+https://www.alphavantage.co/query?function=CASH_FLOW&symbol=NFLX&apikey=
+
+
+- Income Statement
+https://www.alphavantage.co/query?function=INCOME_STATEMENT&symbol=NFLX&apikey=
+
+
+- Monthly Stock
+https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY&symbol=nflx&apikey=
